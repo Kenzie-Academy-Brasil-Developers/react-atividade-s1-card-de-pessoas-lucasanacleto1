@@ -1,0 +1,10 @@
+.cardDeveloper {
+  border: 1px solid blue;
+  margin-top: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.cardDeveloper:hover {
+  filter: brightness(50%);
+}
