@@ -1,6 +1,6 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Cards from "./components/developers/Developer";
+import Cards from "./components/developers/";
 
 function App() {
   const objDevs = [
